@@ -1,0 +1,10 @@
+.component {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows: 30% 70%;
+  background-color: rgba(150,0,0,.5);
+  grid-gap: 10px;
+  min-height: 800px;
+}
+
